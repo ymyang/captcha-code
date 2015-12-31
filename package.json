@@ -1,0 +1,26 @@
+{
+  "name": "captcha-code",
+  "version": "1.0.0",
+  "description": "numberic verify code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymyang/captcha-code.git"
+  },
+  "keywords": [
+    "verify",
+    "code"
+  ],
+  "author": "ymyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymyang/captcha-code/issues"
+  },
+  "homepage": "https://github.com/ymyang/captcha-code#readme",
+  "dependencies": {
+    "captchapng": "0.0.1"
+  }
+}
